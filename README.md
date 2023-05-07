@@ -14,4 +14,4 @@ http://127.0.0.1:8000/comment/great%20movie!/
 
 ### Screenshots:
 
-![Alt text](Screenshots/preview.jpg?raw=true "preview-1")<br>
+![Alt text](preview.jpg?raw=true "preview-1")<br>
