@@ -18,8 +18,8 @@ python manage.py runserver
 ```
 <br> 
 to run, go to: http://127.0.0.1:8000/ followed by comment.
-<br> example:
-```http://127.0.0.1:8000/comment/great%20movie!/```
+example:
+http://127.0.0.1:8000/comment/great%20movie!/
 
 
 ### Screenshots:
