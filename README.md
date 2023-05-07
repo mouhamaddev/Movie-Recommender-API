@@ -9,7 +9,7 @@ Please follow the instructions to install:
 - And finally, after a successful migration run the application: ```python manage.py runserver```
 - At last, open up your favorite web browser
 - Go to URL “http://127.0.0.1/[ PORT_NUMBER ]/“ followed by movie name.
-- Example: ```http://127.0.0.1:8000/comment/great%20movie!/```
+- Example: ```http://127.0.0.1:8000/api/Mad%20Max:%20Fury%20Road%20(2015)/```
 
 
 ### Screenshots:
