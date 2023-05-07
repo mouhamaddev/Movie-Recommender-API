@@ -1,8 +1,7 @@
 # Movie-Recommender-API
 
 <br> How to setup:
-```
-<br> pip install virtualenv
+```pip install virtualenv```
 <br> cd 'project'
 <br> virtualenv env
 <br> env\scripts\activate
