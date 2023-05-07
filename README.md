@@ -1,24 +1,15 @@
 # Movie-Recommender-API
 
-<br>
-How to setup:
-<br>
 
-pip install virtualenv
+Please follow the instructions to install:
 
-cd 'project'
-
-virtualenv env
-
-env\scripts\activate
-
-pip install -r requirements.txt
-
-python manage.py runserver
-<br> 
-to run, go to: http://127.0.0.1:8000/ followed by comment.
-example:
-http://127.0.0.1:8000/comment/great%20movie!/
+- Clone the project: ```git clone https://github.com/mouhamaddev/Movie-Recommender-API.git```
+- Install the Requirements: ```pip install -r requirements.txt```.
+- Then, make database migrations: ```python manage.py makemigrations```, ```python manage.py migrate```.
+- And finally, after a successful migration run the application: ```python manage.py runserver```
+- At last, open up your favorite web browser
+- Go to URL “http://127.0.0.1/[ PORT_NUMBER ]/“ followed by movie name.
+- Example: ```http://127.0.0.1:8000/comment/great%20movie!/```
 
 
 ### Screenshots:
