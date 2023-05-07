@@ -2,7 +2,10 @@
 
 <br>
 How to setup:
-```pip install virtualenv```
+<br>
+```
+pip install virtualenv
+```
 <br>
 ```cd 'project'```
 <br>
