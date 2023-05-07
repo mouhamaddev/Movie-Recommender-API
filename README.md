@@ -3,7 +3,7 @@
 <br>
 How to setup:
 <br>
-```
+
 pip install virtualenv
 
 cd 'project'
@@ -15,7 +15,6 @@ env\scripts\activate
 pip install -r requirements.txt
 
 python manage.py runserver
-```
 <br> 
 to run, go to: http://127.0.0.1:8000/ followed by comment.
 example:
